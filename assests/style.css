@@ -232,6 +232,12 @@ img{
   margin-bottom: var(--mb-3);
 }
 
+.subheading{
+  font-size: var(--small-font-size);
+  color:var(--text-color);
+  margin-bottom: var(--mb-3);
+}
+
 .home__social{
   margin-bottom: 2rem;
 }
